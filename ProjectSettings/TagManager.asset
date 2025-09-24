@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Coin
+  - BottomCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1587687857
+    locked: 0
+  - name: Clouds
+    uniqueID: 2759072085
+    locked: 0
+  - name: mountains
+    uniqueID: 3409337757
+    locked: 0
+  - name: forest1
+    uniqueID: 2023580293
+    locked: 0
+  - name: forest2
+    uniqueID: 1685232525
+    locked: 0
+  - name: objects
+    uniqueID: 2144886983
+    locked: 0
+  - name: interactiveObjects
+    uniqueID: 1928219597
+    locked: 0
+  - name: player
+    uniqueID: 1613185971
+    locked: 0
+  m_RenderingLayers:
+  - Default
